@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @llenn7711
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# れん / llenn
+趣味で遊んでる大学生
 
-<!---
-llenn7711/llenn7711 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Twitter](https://img.shields.io/badge/TWITTER-@llenn7711-1DA1F2.svg?logo=twitter&style=for-the-badge)](https://twitter.com/llenn7711)
+
+## Profile
+- 12月12日生まれ
+- 趣味
+  - 写真
+  - ゲーム
+  - ガジェット
