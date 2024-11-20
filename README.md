@@ -1,5 +1,5 @@
 # れん / llenn
-趣味で遊んでる大学生
+色々遊んでる大学生
 好きな時に好きなことしてます
 
 [![Twitter](https://img.shields.io/badge/TWITTER-@llenn7711-1DA1F2.svg?logo=twitter&style=for-the-badge)](https://twitter.com/llenn7711)
